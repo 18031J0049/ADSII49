@@ -68,7 +68,7 @@ class Graph {
      for(int i=0;i<t1;i++)
      {
     	String str = sc.nextLine();
-    	System.out.println(str);
+    	//System.out.println(str);
     	if(!s.equals(""))
     		if(!str.equals(""))
     	 s = str.split(" ");	
